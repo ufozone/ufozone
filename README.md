@@ -13,8 +13,8 @@ More than 20 years of professional experience in software development. In specia
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mariadb&logoColor=white&style=for-the-badge)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mariadb&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
@@ -29,3 +29,11 @@ More than 20 years of professional experience in software development. In specia
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Jira Software](https://img.shields.io/badge/Jira%20Software-0052CC?logo=jirasoftware&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azurea%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge)
