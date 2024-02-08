@@ -1,6 +1,6 @@
 ## 👨‍💻 Who I am
 
-More than 20 years of professional experience in software development. In special with focus on enterprise software, IT security and high traffic websites. Currently working as a business unit manager responsible for finance and controlling.
+More than 20 years of professional experience in software development. In special with focus on enterprise software, IT security and high traffic websites. Currently working as a business unit manager responsible for project management office, finance and controlling.
 
 
 ## 💻 Technologies & Tooling
