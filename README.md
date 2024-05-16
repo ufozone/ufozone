@@ -36,4 +36,4 @@ More than 20 years of professional experience in software development. In specia
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge)
-![Azure DevOps](https://img.shields.io/badge/Azurea%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white&style=for-the-badge)
