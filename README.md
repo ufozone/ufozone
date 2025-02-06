@@ -1,6 +1,6 @@
 ## 👨‍💻 Who I am
 
-More than 20 years of professional experience in software development. In special with focus on enterprise software, IT security and high traffic websites. Currently working as a business unit manager responsible for project management office, finance and controlling.
+More than 20 years of professional experience in software development. In special with focus on enterprise software, IT security and high traffic websites. As head of the Enterprise Services business unit at Join GmbH, I am involved in the use of innovative technologies, from agile cloud environments to the efficient use of artificial intelligence.
 
 
 ## 💻 Technologies & Tooling
